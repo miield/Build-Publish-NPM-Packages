@@ -1,0 +1,23 @@
+{
+  "name": "miield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miield/Build-Publish-NPM-Packages.git"
+  },
+  "keywords": [
+    "NPM",
+    "Packages"
+  ],
+  "author": "Miield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miield/Build-Publish-NPM-Packages/issues"
+  },
+  "homepage": "https://github.com/miield/Build-Publish-NPM-Packages#readme"
+}
